@@ -18,5 +18,5 @@ Python console translator
 
 from translate import Translator
 
-obj = Translator()
-obj.translate("if you want add params")
+<p>obj = Translator()</p>
+<p>obj.translate("if you want add params")</p>
